@@ -62,3 +62,9 @@
 	width="100%"
 	height="500px"
 	loading='lazy'></iframe>
+
+## 设计图
+
+让 AI 设计下效果
+
+![](/blogs/data-dashboard/9c94e1feae34c901.webp)
